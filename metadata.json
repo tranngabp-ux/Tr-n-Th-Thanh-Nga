@@ -1,0 +1,6 @@
+{
+  "name": "Phòng Thực Hành Hóa - THCS&THPT Võ Thị Sáu",
+  "description": "Hệ thống quản lý phòng thí nghiệm Hóa học thông minh cho giáo viên và quản trị viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
